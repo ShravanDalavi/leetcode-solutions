@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
