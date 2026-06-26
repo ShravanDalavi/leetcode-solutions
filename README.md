@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0912-sort-an-array](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -20,10 +21,35 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Database
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
