@@ -71,6 +71,15 @@ This repository is primarily for personal learning. Suggestions and improvements
 
 ## 📬 Connect With Me
 
-- GitHub: https://github.com/ShravanDalavi
-- LinkedIn: https://www.linkedin.com/in/shravan-dalavi-356236232/
-- LeetCode: https://leetcode.com/u/shravandalavi/
+- GitHub: [Profile](https://github.com/ShravanDalavi)
+- LinkedIn: [Profile](https://www.linkedin.com/in/shravan-dalavi-356236232/ )
+- LeetCode: [Profile]( https://leetcode.com/u/shravandalavi/ )
+- Contact: shravandalavi137@gmail.com
+
+### Feedback and Support
+We value your input! If you encounter any issues or have suggestions, please open an issue in this repository. Your feedback helps us improve!
+
+### Show Your Support
+**If you enjoyed this tutorial, don't forget to [⭐ star the repository](https://github.com/ShravanDalavi/leetcode-solutions) and [follow for updates](https://github.com/ShravanDalavi).**
+
+**Thank you for exploring this repository! I hope you find these projects both interesting and useful. 😊**
