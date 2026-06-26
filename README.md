@@ -62,12 +62,13 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1929-concatenation-of-array](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
 
+---
 
 ## 🤝 Contributions
 
 This repository is primarily for personal learning. Suggestions and improvements are always welcome!
 
----
+--
 
 ## 📬 Connect With Me
 
@@ -76,6 +77,7 @@ This repository is primarily for personal learning. Suggestions and improvements
 - LeetCode: [Profile]( https://leetcode.com/u/shravandalavi/ )
 - Contact: shravandalavi137@gmail.com
 
+---
 ### Feedback and Support
 We value your input! If you encounter any issues or have suggestions, please open an issue in this repository. Your feedback helps us improve!
 
