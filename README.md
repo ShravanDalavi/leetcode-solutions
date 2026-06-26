@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0912-sort-an-array](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1929-concatenation-of-array](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
