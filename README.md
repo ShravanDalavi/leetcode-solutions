@@ -10,6 +10,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0004-median-of-two-sorted-arrays](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0485-max-consecutive-ones](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -35,6 +36,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -60,6 +62,14 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
 
 ---
