@@ -70,6 +70,10 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0645-set-mismatch) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ShravanDalavi/leetcode-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
 
 ---
