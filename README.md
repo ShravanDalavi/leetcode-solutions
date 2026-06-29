@@ -15,6 +15,29 @@
 
 </div>
 
+# 📖 About
+
+Welcome to my **LeetCode Solutions** repository.
+
+This repository contains my solutions to LeetCode problems written in **Java**, **Python**, and **SQL**.
+
+The purpose of this repository is to:
+
+- 📚 Learn Data Structures & Algorithms
+- 🚀 Prepare for Coding Interviews
+- 💡 Practice Problem Solving
+- ⚡ Improve Coding Skills
+- 🏆 Maintain Daily Consistency
+
+---
+
+# 🛠 Languages
+
+- ☕ Java
+- 🐍 Python
+- 🗄 SQL (MySQL)
+
+---
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
