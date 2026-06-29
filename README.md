@@ -1,11 +1,19 @@
-# leetcode-solutions
-Welcome to my **LeetCode Solutions** repository! This repository contains my solutions to LeetCode problems, primarily solved in **Java** and **SQL**, to improve my Data Structures & Algorithms (DSA) skills and prepare for coding interviews.
+# 🚀 LeetCode Solutions
 
-🚀 LeetCode Solutions
+<div align="center">
 
-Welcome to my LeetCode Solutions repository! This repository contains my solutions to LeetCode problems, solved primarily in Java, Python, and SQL. The goal of this repository is to improve my Data Structures & Algorithms (DSA) skills, strengthen problem-solving abilities, and prepare for technical interviews.
+### 💻 Consistent DSA Practice | 🚀 Interview Preparation | 📚 Clean & Optimized Solutions
 
-<p align="center"> <img src="https://img.shields.io/badge/Problems-Solving-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/Database-SQL-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Platform-LeetCode-black?style=for-the-badge" /> </p>
+![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/ShravanDalavi/leetcode-solutions?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/ShravanDalavi/leetcode-solutions?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/ShravanDalavi/leetcode-solutions?style=flat-square)
+
+</div>
 
 
 <!---LeetCode Topics Start-->
