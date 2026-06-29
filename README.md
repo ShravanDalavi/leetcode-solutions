@@ -1,6 +1,12 @@
 # leetcode-solutions
 Welcome to my **LeetCode Solutions** repository! This repository contains my solutions to LeetCode problems, primarily solved in **Java** and **SQL**, to improve my Data Structures & Algorithms (DSA) skills and prepare for coding interviews.
 
+🚀 LeetCode Solutions
+
+Welcome to my LeetCode Solutions repository! This repository contains my solutions to LeetCode problems, solved primarily in Java, Python, and SQL. The goal of this repository is to improve my Data Structures & Algorithms (DSA) skills, strengthen problem-solving abilities, and prepare for technical interviews.
+
+<p align="center"> <img src="https://img.shields.io/badge/Problems-Solving-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/Database-SQL-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Platform-LeetCode-black?style=for-the-badge" /> </p>
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
